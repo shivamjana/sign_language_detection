@@ -1,0 +1,14 @@
+sign/Lib/
+sign/__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.exe
+*.so
+*.lib
+*.zip
+*.tar
+*.whl
+*.egg-info/
+.DS_Store
+.env
