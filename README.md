@@ -31,5 +31,5 @@ This project aims to bridge the communication gap between **hearing-impaired** i
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/sign-language-detection.git
+git clone https://github.com/shivamjana/sign-language-detection.git
 
